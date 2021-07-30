@@ -1,5 +1,5 @@
 ## Oiii! Eu sou a Elisabete Alves  
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/8dd880c47cfc761e805745c941097adb.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/8dd880c47cfc761e805745c941097adb.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
 - 🔭 Open to work ...
 - 🌱 API RESTfull (JavaScript, Node.js, MondoDB, Git) ...
