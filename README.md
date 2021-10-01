@@ -13,7 +13,7 @@
   <img align="center" alt="Lizz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lizz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lizz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--    <img align="right" width="130" height="130" alt="lizz" src="https://i.picasion.com/pic91/8dd880c47cfc761e805745c941097adb.gif"> -->
+   <img align="right" width="130" height="130" alt="lizz" src="https://i.picasion.com/pic91/8dd880c47cfc761e805745c941097adb.gif"> 
  
 </div>
   
