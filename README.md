@@ -1,4 +1,4 @@
-## Oi, sou Eli 😊 !!!
+## Oi, sou a Eli 😊 !!!
 ### Sou apaixonada por programação. Atualmente, estou cursando análise e desenvolvimento de sistemas no Infnet, participei do Bootcamp da { reprograma } em Back end, por isso tenho como principal stack o desenvolvimento Back end em aplicação web. 
 
 <br>
