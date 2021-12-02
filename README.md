@@ -14,7 +14,7 @@
   <img align="center" alt="Lizz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lizz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lizz-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lizz-angula" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angula/angula-original.svg">
+  <img align="center" alt="Lizz-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angula/angular-original.svg">
 <!--    <img align="right" width="130" height="130" alt="lizz" src="https://i.picasion.com/pic91/8dd880c47cfc761e805745c941097adb.gif">  -->
  
 </div>
