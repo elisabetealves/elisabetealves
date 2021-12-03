@@ -12,7 +12,6 @@
    
    ##
    
-   <p>Back-end   /   Front-end   /   framework    /   DataBase   /    Versionameto de código</p>
   <img align="center" alt="Lizz-Js" height="30" wi/dth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lizz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lizz-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
