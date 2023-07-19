@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB7093&size=35&center=true&vCenter=true&width=1000&lines=Oi,+sou+a+Eli+😊+!!!;Full+Stack+developer;)](https://git.io/typing-svg)
 
 
-### Sou apaixonada por programação. Atualmente, estou cursando análise e desenvolvimento de sistemas no Infnet, onde estou aprimorando e expandindo meus conhecimentos, visando sempre uma boa qualificação profissional, praticando em projetos tantos individuais quanto em grupo. Além disso estou cursando Full Stack Web Development na Labenu, e anteriormente participei do Bootcamp da { reprograma } em Back end. Tenho como principal stack o desenvolvimento em aplicação web. 
+### Sou apaixonada por programação. Atualmente, estou cursando análise e desenvolvimento de sistemas no SENAC, onde estou aprimorando e expandindo meus conhecimentos, visando sempre uma boa qualificação profissional, praticando em projetos tantos individuais quanto em grupo. Além disso estou cursando Full Stack Web Development na Labenu, e anteriormente participei do Bootcamp da { reprograma } em Back end. Tenho como principal stack o desenvolvimento em aplicação web. 
 
 <br>
 
