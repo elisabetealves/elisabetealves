@@ -77,6 +77,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 
  <h3><p align="center">Total de Visitas:</p>
  <p align="center">
- <img src="https://profile-counter.glitch.me/elisabetealves/count.svg"/>
+  <img src="https://getloli.com" alt="Contador de Visitas" />
   </p>
  
