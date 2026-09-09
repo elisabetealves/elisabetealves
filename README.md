@@ -13,7 +13,6 @@ Tenho interesse especialmente em:
 - 🧪 Testes de Software
 - 🤖 Testes Automatizados
 - 🔍 Qualidade e confiabilidade
-- 🚀 Testes funcionais, regressão, não funcionais e etc.
 - ☁️ Tecnologias modernas
 - 🏗️ Arquitetura e integração de sistemas
 - 📊 Observabilidade
@@ -32,6 +31,25 @@ Meu objetivo é continuar evoluindo tecnicamente e contribuir para a construçã
 </a>
 
 </div>
+
+🧪 Conhecimentos em QA
+
+Tenho interesse e experiência/conhecimento em diferentes práticas de qualidade:
+
+- ✔ Testes funcionais
+- ✔ Testes exploratórios
+- ✔ Testes de regressão
+- ✔ Testes de integração
+- ✔ Testes de API
+- ✔ Automação de testes
+- ✔ Testes de usabilidade
+- ✔ Testes de acessibilidade
+- ✔ Shift Left
+- ✔ TDD
+- ✔ Page Object Model
+- ✔ Keyword-Driven Testing
+- ✔ CI/CD
+- ✔ Observabilidade
  
  ##
  
