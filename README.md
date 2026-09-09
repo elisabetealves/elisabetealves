@@ -75,8 +75,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
  
 </div>
 
- <h3><p align="center">Total de Visitas:</p>
- <p align="center">
-  <img src="https://komarev.com/ghvc/?username=elisabetealves" />
-  </p>
+<p align="center">
+  <h3>Total de Visitas:</h3>
+  <img src="https://komarev.com" />
+</p>
  
