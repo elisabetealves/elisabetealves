@@ -75,8 +75,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
  
 </div>
 
-<div align="center">
-  <h3>Total de Visitas:</h3>
-  <img src="https://komarev.com" alt="Contador de Visitas" />
-</div>
+### Total de Visitas
+![Contador de Visitas](https://komarev.com)
  
