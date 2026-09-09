@@ -74,6 +74,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
   ![Snake animation](https://github.com/elisabetealves/elisabetealves/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<p align="center">Total de Visitas:</p>
+<p align="center">
+  <img src="https://glitch.me" alt="Contador de visitas" />
+</p>
  
  <h3><p align="center">Total de Visitas:</p>
  <p align="center">
