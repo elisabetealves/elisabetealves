@@ -18,6 +18,8 @@ Tenho interesse especialmente em:
 - 📊 Observabilidade
 - 🔄 Metodologias ágeis
 - 🤖 Inteligência Artificial aplicada à tecnologia
+- 🔐 Qualidade e segurança
+- 📐 Boas práticas de desenvolvimento e testes
 
 Meu objetivo é continuar evoluindo tecnicamente e contribuir para a construção de produtos mais seguros, estáveis e confiáveis.
 
