@@ -10,15 +10,15 @@ Sou Analista de Sistemas apaixonada por tecnologia, qualidade e melhoria contín
 Atuo na área de Quality Assurance, buscando garantir a qualidade das aplicações desde as etapas iniciais do desenvolvimento até a entrega em produção.
 Tenho interesse especialmente em:
 
--🧪 Testes de Software
--🤖 Testes Automatizados
--🔍 Qualidade e confiabilidade
--🚀 Testes funcionais, regressão, não funcionais e etc.
--☁️ Tecnologias modernas
--🏗️ Arquitetura e integração de sistemas
--📊 Observabilidade
--🔄 Metodologias ágeis
--🤖 Inteligência Artificial aplicada à tecnologia
+- 🧪 Testes de Software
+- 🤖 Testes Automatizados
+- 🔍 Qualidade e confiabilidade
+- 🚀 Testes funcionais, regressão, não funcionais e etc.
+- ☁️ Tecnologias modernas
+- 🏗️ Arquitetura e integração de sistemas
+- 📊 Observabilidade
+- 🔄 Metodologias ágeis
+- 🤖 Inteligência Artificial aplicada à tecnologia
 
 Meu objetivo é continuar evoluindo tecnicamente e contribuir para a construção de produtos mais seguros, estáveis e confiáveis.
 
