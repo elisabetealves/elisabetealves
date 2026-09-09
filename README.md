@@ -75,6 +75,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
  
 </div>
 
-### Total de Visitas
-![Contador de Visitas](https://komarev.com)
+
  
