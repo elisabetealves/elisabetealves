@@ -1,11 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=150&section=header&text=Seja%20Bem-Vindx%20%:)&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Analista+de+Sistemas;Quality+Assurance;Testes+de+Software;Automação+de+Testes;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" /> </p>
 
 <!--  Animaão -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB7093&size=35&center=true&vCenter=true&width=1000&lines=Oi,+sou+a+Eliabete+😊+!!!;Analista+de+Software+Pleno+|+QA;)](https://git.io/typing-svg)
 
 
-### Sou apaixonada por programação. Atualmente, estou cursando análise e desenvolvimento de sistemas no SENAC, onde estou aprimorando e expandindo meus conhecimentos, visando sempre uma boa qualificação profissional, praticando em projetos tantos individuais quanto em grupo. Além disso estou cursando Full Stack Web Development na Labenu, e anteriormente participei do Bootcamp da { reprograma } em Back end. Tenho como principal stack o desenvolvimento em aplicação web. 
+### 👩🏻‍💻 Sobre mim
+
+Sou Analista de Sistemas apaixonada por tecnologia, qualidade e melhoria contínua.
+Atuo na área de Quality Assurance, buscando garantir a qualidade das aplicações desde as etapas iniciais do desenvolvimento até a entrega em produção.
+Tenho interesse especialmente em:
+
+🧪 Testes de Software
+🤖 Testes Automatizados
+🔍 Qualidade e confiabilidade
+🚀 Testes funcionais, regressão, não funcionais e etc.
+☁️ Tecnologias modernas
+🏗️ Arquitetura e integração de sistemas
+📊 Observabilidade
+🔄 Metodologias ágeis
+🤖 Inteligência Artificial aplicada à tecnologia
+
+Meu objetivo é continuar evoluindo tecnicamente e contribuir para a construção de produtos mais seguros, estáveis e confiáveis.
 
 <br>
 
