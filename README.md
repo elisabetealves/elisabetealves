@@ -77,6 +77,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 
  <h3><p align="center">Total de Visitas:</p>
  <p align="center">
-  <img src="https://deno.dev" />
+  <img src="https://shields.io" />
   </p>
  
