@@ -23,16 +23,7 @@ Meu objetivo é continuar evoluindo tecnicamente e contribuir para a construçã
 
 <br>
 
-<div align="center">
-
-<a href="https://github.com/elisabetealves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisabetealves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisabetealves&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-
-</div>
-
-🧪 Conhecimentos em QA
+### 🧪 Conhecimentos em QA
 
 Tenho interesse e experiência/conhecimento em diferentes práticas de qualidade:
 
@@ -67,6 +58,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 <!--    <img align="right" width="130" height="130" alt="lizz" src="https://i.picasion.com/pic91/8dd880c47cfc761e805745c941097adb.gif">  -->
  
 </div>
+
+📊 GitHub Stats
+
+<p align="center"> <a href="https://github.com/elisabetealves"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisabetealves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a> <a href="https://github.com/elisabetealves"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisabetealves&layout=compact&langs_count=7&theme=dracula"/> </a> </p>
   
   ##
  
